@@ -1,0 +1,8 @@
+service: aws-serverless-hello-world
+provider:
+  name: aws
+  runtime: nodejs8.10
+
+functions:
+  print:
+    handler: handler.print
