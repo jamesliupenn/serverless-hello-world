@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jamesliupenn/serverless-hello-world/issues"
   },
-  "homepage": "https://github.com/jamesliupenn/serverless-hello-world#readme"
+  "homepage": "https://github.com/jamesliupenn/serverless-hello-world#readme",
+  "dependencies": {
+    "serverless": "^1.65.0"
+  }
 }
